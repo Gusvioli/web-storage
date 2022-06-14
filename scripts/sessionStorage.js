@@ -60,7 +60,7 @@ window.onload = () => {
 
   // console.log(typeof JSON.parse(ver));
   
-   const ver =  sessionStorage.key(0);
-  console.log(ver);
+  // const ver =  sessionStorage.key(0);
+  // console.log(ver);
   
 }
