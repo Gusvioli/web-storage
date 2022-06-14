@@ -54,7 +54,7 @@ window.onload = () => {
   // localStorage.setItem('localStorage', JSON.stringify(['valor1', 'valor2']));
   // localStorage.setItem('localStorage', ['valor1', 'valor2']);
 
-  const ver = localStorage.getItem('localStorage');
+  // const ver = localStorage.getItem('localStorage');
 
   // console.log(typeof ver);
   // console.log(typeof JSON.parse(ver));
