@@ -54,7 +54,11 @@ window.onload = () => {
   // Retorna o tipo de dados armazenado no navegador
   // console.log(typeof ver);
 
+  // Retorna o valor já convertido para o valor original
   // console.log(JSON.parse(ver));
+
+  // Retorna o tipo do valor convertido
+  // console.log(typeof JSON.parse(ver));
 
   // const ver =  localStorage.key(0);
   // console.log(ver);
