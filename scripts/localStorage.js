@@ -39,7 +39,7 @@ window.onload = () => {
   escutarBotao("clear", localclear);
   escutarBotao("remove", localremove);
 
-  localStorage.setItem("localStorage", JSON.stringify(true));
+  // localStorage.setItem("localStorage", JSON.stringify(true));
   // localStorage.setItem('localStorage', true);
 
   // localStorage.setItem('localStorage', 22);
@@ -52,12 +52,13 @@ window.onload = () => {
   // localStorage.setItem('localStorage', {chave: 'valor'});
 
   // localStorage.setItem('localStorage', JSON.stringify(['valor1', 'valor2']));
-  // localStorage.setItem('localStorage', ['valor1', 'valor2']);
+  // localStorage.setItem('localStorage', [22, 'valor2']);
 
-  // const ver = localStorage.getItem('localStorage');
+  const ver = localStorage.getItem('localStorage');
 
+  // console.log(ver);
   // console.log(typeof ver);
-  // console.log(typeof JSON.parse(ver));
+  // console.log(JSON.parse(ver));
 
   // const ver =  localStorage.key(0);
   // console.log(ver);

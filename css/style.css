@@ -5,6 +5,10 @@
   font-size: 26px;
 }
 
+body {
+  padding: 10px;
+}
+
 .red {
   background-color: red;
   padding: 10px;
@@ -29,7 +33,7 @@
 }
 
 section {
-  margin-top: 50px;
+  margin-top: 30px;
   margin-bottom: 50p;
 }
 
