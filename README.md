@@ -9,11 +9,11 @@ navegador esses dados estão no formato de strings, os dados são passados como 
 
 #### 5 tipos de métodos
 
-setItem() = Criar os dados
-getItem() = Pegar os dados já criados
-removeItem() Remover os dados através da chave
-clear() Remover todos os dados
-key(n) è utilizado pra pegar as chaves pelo índice
+setItem() = Criar os dados<br />
+getItem() = Pegar os dados já criados<br />
+removeItem() Remover os dados através da chave<br />
+clear() Remover todos os dados<br />
+key(n) è utilizado pra pegar as chaves pelo índice<br />
 
 
 
@@ -26,11 +26,11 @@ navegador esses dados estão no formato de strings, os dados são passados como 
 
 #### 5 tipos de métodos
 
-setItem() = Criar os dados
-getItem() = Pegar os dados já criados
-removeItem() Remover os dados através da chave
-clear() Remover todos os dados
-key(n) É utilizado pra pegar as chaves pelo índice
+setItem() = Criar os dados<br />
+getItem() = Pegar os dados já criados<br />
+removeItem() Remover os dados através da chave<br />
+clear() Remover todos os dados<br />
+key(n) É utilizado pra pegar as chaves pelo índice<br />
 
 
 
