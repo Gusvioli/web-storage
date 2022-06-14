@@ -39,9 +39,6 @@ JSON.stringify() - Converte javascript em string(Stringficando)<br />
 JSON.parse() - Converte string em javascript <br />
 
 
-
-
-
 ### Obs:
 
 Essas funcionabilidades não substituem os cookies apenas possuem 
