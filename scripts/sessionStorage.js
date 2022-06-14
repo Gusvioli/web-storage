@@ -41,23 +41,25 @@ window.onload = () => {
   escutarBotao('clear', sessionclear);
   escutarBotao('remove', sessionremove);
 
-  sessionStorage.setItem('sessionStorage', JSON.stringify(true));
-  // sessionStorage.setItem('sessionStorage', true);
+  // sessionStorage.setItem('sessionStorage', JSON.stringify(true));
 
-  // sessionStorage.setItem('sessionStorage', 22);
   // sessionStorage.setItem('sessionStorage', JSON.stringify(22));
 
-  // sessionStorage.setItem('sessionStorage', 'Turma 22');
   // sessionStorage.setItem('sessionStorage', JSON.stringify('Turma 22'));
 
   // sessionStorage.setItem('sessionStorage', JSON.stringify( {chave: 'valor'}));
-  // sessionStorage.setItem('sessionStorage', {chave: 'valor'});
 
-  // sessionStorage.setItem('sessionStorage', JSON.stringify(['valor1', 'valor2']));
-  // sessionStorage.setItem('sessionStorage', ['valor1', 'valor2']);
+  // sessionStorage.setItem('sessionStorage', JSON.stringify([22, 'String', {chave: "valor"}, true]));
 
   // const ver = sessionStorage.getItem('sessionStorage');
 
+  // Retorna o tipo de dados armazenado no navegador
+  // console.log(typeof ver);
+
+  // Retorna o valor já convertido para o valor original
+  // console.log(JSON.parse(ver));
+
+  // Retorna o tipo do valor convertido
   // console.log(typeof JSON.parse(ver));
   
   // const ver =  sessionStorage.key(0);

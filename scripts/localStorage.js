@@ -40,24 +40,20 @@ window.onload = () => {
   escutarBotao("remove", localremove);
 
   // localStorage.setItem("localStorage", JSON.stringify(true));
-  // localStorage.setItem('localStorage', true);
 
-  // localStorage.setItem('localStorage', 22);
   // localStorage.setItem('localStorage', JSON.stringify(22));
 
-  // localStorage.setItem('localStorage', 'Turma 22');
   // localStorage.setItem('localStorage', JSON.stringify('Turma 22'));
 
   // localStorage.setItem('localStorage', JSON.stringify( {chave: 'valor'}));
-  // localStorage.setItem('localStorage', {chave: 'valor'});
 
-  // localStorage.setItem('localStorage', JSON.stringify(['valor1', 'valor2']));
-  // localStorage.setItem('localStorage', [22, 'valor2']);
+  // localStorage.setItem('localStorage', JSON.stringify([22, 'String', {chave: "valor"}, true]));
 
-  const ver = localStorage.getItem('localStorage');
+  // const ver = localStorage.getItem('localStorage');
 
-  // console.log(ver);
+  // Retorna o tipo de dados armazenado no navegador
   // console.log(typeof ver);
+
   // console.log(JSON.parse(ver));
 
   // const ver =  localStorage.key(0);
