@@ -13,7 +13,7 @@ setItem() = Criar os dados<br />
 getItem() = Pegar os dados já criados<br />
 removeItem() Remover os dados através da chave<br />
 clear() Remover todos os dados<br />
-key(n) è utilizado pra pegar as chaves pelo índice<br />
+key(n) è utilizado pra pegar as chaves pelo índice
 
 
 
@@ -40,4 +40,4 @@ Essas funcionabilidades não substituem os cookies apenas possuem
 benefícios direrentes, os cookies ainda são usados quandos há a nescessidades 
 de troca de dados com servidor.
 
-leitura: https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/17_Day_Web_storages/17_day_web_storages.md
+##### leitura: https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/17_Day_Web_storages/17_day_web_storages.md
